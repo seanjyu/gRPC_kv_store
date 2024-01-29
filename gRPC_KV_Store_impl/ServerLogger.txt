@@ -1,0 +1,250 @@
+Oct 26, 2023 11:32:56 PM projectTwo.KVStore.ServerLogger logInfo
+INFO: Server started, awaiting RPC requests
+Oct 26, 2023 11:33:23 PM projectTwo.KVStore.ServerLogger logInfo
+INFO: 
+Client Name: test
+IP address: 127.0.0.1
+Port number: 8888
+Params Length: 15
+Server message: Successfully put entry to KVStore
+
+Oct 26, 2023 11:33:23 PM projectTwo.KVStore.ServerLogger logInfo
+INFO: 
+Client Name: test
+IP address: 127.0.0.1
+Port number: 8888
+Params Length: 15
+Server message: Successfully put entry to KVStore
+
+Oct 26, 2023 11:33:23 PM projectTwo.KVStore.ServerLogger logInfo
+INFO: 
+Client Name: test
+IP address: 127.0.0.1
+Port number: 8888
+Params Length: 15
+Server message: Successfully put entry to KVStore
+
+Oct 26, 2023 11:33:23 PM projectTwo.KVStore.ServerLogger logInfo
+INFO: 
+Client Name: test
+IP address: 127.0.0.1
+Port number: 8888
+Params Length: 15
+Server message: Successfully put entry to KVStore
+
+Oct 26, 2023 11:33:23 PM projectTwo.KVStore.ServerLogger logInfo
+INFO: 
+Client Name: test
+IP address: 127.0.0.1
+Port number: 8888
+Params Length: 15
+Server message: Successfully put entry to KVStore
+
+Oct 26, 2023 11:33:23 PM projectTwo.KVStore.ServerLogger logInfo
+INFO: 
+Client Name: test
+IP address: 127.0.0.1
+Port number: 8888
+Params Length: 15
+Server message: Successfully got entry from KVStore
+
+Oct 26, 2023 11:33:23 PM projectTwo.KVStore.ServerLogger logInfo
+INFO: 
+Client Name: test
+IP address: 127.0.0.1
+Port number: 8888
+Params Length: 15
+Server message: Successfully got entry from KVStore
+
+Oct 26, 2023 11:33:23 PM projectTwo.KVStore.ServerLogger logInfo
+INFO: 
+Client Name: test
+IP address: 127.0.0.1
+Port number: 8888
+Params Length: 15
+Server message: Successfully got entry from KVStore
+
+Oct 26, 2023 11:33:23 PM projectTwo.KVStore.ServerLogger logInfo
+INFO: 
+Client Name: test
+IP address: 127.0.0.1
+Port number: 8888
+Params Length: 15
+Server message: Successfully got entry from KVStore
+
+Oct 26, 2023 11:33:23 PM projectTwo.KVStore.ServerLogger logInfo
+INFO: 
+Client Name: test
+IP address: 127.0.0.1
+Port number: 8888
+Params Length: 15
+Server message: Successfully got entry from KVStore
+
+Oct 26, 2023 11:33:23 PM projectTwo.KVStore.ServerLogger logInfo
+INFO: 
+Client Name: test
+IP address: 127.0.0.1
+Port number: 8888
+Params Length: 18
+Server message: Successfully delete entry from KVStore
+
+Oct 26, 2023 11:33:23 PM projectTwo.KVStore.ServerLogger logInfo
+INFO: 
+Client Name: test
+IP address: 127.0.0.1
+Port number: 8888
+Params Length: 18
+Server message: Successfully delete entry from KVStore
+
+Oct 26, 2023 11:33:23 PM projectTwo.KVStore.ServerLogger logInfo
+INFO: 
+Client Name: test
+IP address: 127.0.0.1
+Port number: 8888
+Params Length: 18
+Server message: Successfully delete entry from KVStore
+
+Oct 26, 2023 11:33:23 PM projectTwo.KVStore.ServerLogger logInfo
+INFO: 
+Client Name: test
+IP address: 127.0.0.1
+Port number: 8888
+Params Length: 18
+Server message: Successfully delete entry from KVStore
+
+Oct 26, 2023 11:33:23 PM projectTwo.KVStore.ServerLogger logInfo
+INFO: 
+Client Name: test
+IP address: 127.0.0.1
+Port number: 8888
+Params Length: 18
+Server message: Successfully delete entry from KVStore
+
+Oct 26, 2023 11:34:14 PM projectTwo.KVStore.ServerLogger logInfo
+INFO: 
+Client Name: test1
+IP address: 127.0.0.1
+Port number: 8888
+Params Length: 15
+Server message: Successfully put entry to KVStore
+
+Oct 26, 2023 11:34:15 PM projectTwo.KVStore.ServerLogger logInfo
+INFO: 
+Client Name: test1
+IP address: 127.0.0.1
+Port number: 8888
+Params Length: 15
+Server message: Successfully put entry to KVStore
+
+Oct 26, 2023 11:34:15 PM projectTwo.KVStore.ServerLogger logInfo
+INFO: 
+Client Name: test1
+IP address: 127.0.0.1
+Port number: 8888
+Params Length: 15
+Server message: Successfully put entry to KVStore
+
+Oct 26, 2023 11:34:15 PM projectTwo.KVStore.ServerLogger logInfo
+INFO: 
+Client Name: test1
+IP address: 127.0.0.1
+Port number: 8888
+Params Length: 15
+Server message: Successfully put entry to KVStore
+
+Oct 26, 2023 11:34:15 PM projectTwo.KVStore.ServerLogger logInfo
+INFO: 
+Client Name: test1
+IP address: 127.0.0.1
+Port number: 8888
+Params Length: 15
+Server message: Successfully put entry to KVStore
+
+Oct 26, 2023 11:34:15 PM projectTwo.KVStore.ServerLogger logInfo
+INFO: 
+Client Name: test1
+IP address: 127.0.0.1
+Port number: 8888
+Params Length: 15
+Server message: Successfully got entry from KVStore
+
+Oct 26, 2023 11:34:15 PM projectTwo.KVStore.ServerLogger logInfo
+INFO: 
+Client Name: test1
+IP address: 127.0.0.1
+Port number: 8888
+Params Length: 15
+Server message: Successfully got entry from KVStore
+
+Oct 26, 2023 11:34:15 PM projectTwo.KVStore.ServerLogger logInfo
+INFO: 
+Client Name: test1
+IP address: 127.0.0.1
+Port number: 8888
+Params Length: 15
+Server message: Successfully got entry from KVStore
+
+Oct 26, 2023 11:34:15 PM projectTwo.KVStore.ServerLogger logInfo
+INFO: 
+Client Name: test1
+IP address: 127.0.0.1
+Port number: 8888
+Params Length: 15
+Server message: Successfully got entry from KVStore
+
+Oct 26, 2023 11:34:15 PM projectTwo.KVStore.ServerLogger logInfo
+INFO: 
+Client Name: test1
+IP address: 127.0.0.1
+Port number: 8888
+Params Length: 15
+Server message: Successfully got entry from KVStore
+
+Oct 26, 2023 11:34:15 PM projectTwo.KVStore.ServerLogger logInfo
+INFO: 
+Client Name: test1
+IP address: 127.0.0.1
+Port number: 8888
+Params Length: 18
+Server message: Successfully delete entry from KVStore
+
+Oct 26, 2023 11:34:15 PM projectTwo.KVStore.ServerLogger logInfo
+INFO: 
+Client Name: test1
+IP address: 127.0.0.1
+Port number: 8888
+Params Length: 18
+Server message: Successfully delete entry from KVStore
+
+Oct 26, 2023 11:34:15 PM projectTwo.KVStore.ServerLogger logInfo
+INFO: 
+Client Name: test1
+IP address: 127.0.0.1
+Port number: 8888
+Params Length: 18
+Server message: Successfully delete entry from KVStore
+
+Oct 26, 2023 11:34:15 PM projectTwo.KVStore.ServerLogger logInfo
+INFO: 
+Client Name: test1
+IP address: 127.0.0.1
+Port number: 8888
+Params Length: 18
+Server message: Successfully delete entry from KVStore
+
+Oct 26, 2023 11:34:15 PM projectTwo.KVStore.ServerLogger logInfo
+INFO: 
+Client Name: test1
+IP address: 127.0.0.1
+Port number: 8888
+Params Length: 18
+Server message: Successfully delete entry from KVStore
+
+Oct 26, 2023 11:34:19 PM projectTwo.KVStore.ServerLogger logError
+WARNING: 
+Client Name: test1
+IP address: 127.0.0.1
+Port number: 8888
+Params Length: 1
+Error message: Invalid commands from client 
+

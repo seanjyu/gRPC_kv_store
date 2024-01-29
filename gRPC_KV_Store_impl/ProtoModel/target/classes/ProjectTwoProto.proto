@@ -1,0 +1,18 @@
+syntax = "proto3";
+
+package service.protobuf;
+
+option java_multiple_files = true;
+
+message requestKVUpdate {
+  string clientName = 1;
+  string message = 2;
+}
+
+message responseKVUpdate {
+  string updateStatus = 1;
+}
+
+service updateKVStore {
+  rpc updateKVStore(requestKVUpdate) returns (responseKVUpdate);
+}
